@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "609955553896",
+    "firebase_url": "https://walk-win-602a2-default-rtdb.firebaseio.com",
+    "project_id": "walk-win-602a2",
+    "storage_bucket": "walk-win-602a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609955553896:android:83572f1139af09cf6dd1dd",
+        "android_client_info": {
+          "package_name": "com.example.flutt_project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk3xXBPr5vSh_Oi9q3ftZoGLjGbTcAbxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
